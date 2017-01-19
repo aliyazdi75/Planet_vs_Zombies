@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Final_JPvZ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_JPvZ_jar</output-path>
+    <root id="archive" name="Final_JPvZ.jar">
+      <element id="module-output" name="Final_JPvZ" />
+    </root>
+  </artifact>
+</component>
